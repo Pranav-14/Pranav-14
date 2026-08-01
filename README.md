@@ -11,6 +11,7 @@
 
   <!-- Badges -->
   <p align="center">
+    <a href="./Pranav_Sastry_Resume.pdf"><img src="https://img.shields.io/badge/Resume-0055DA?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
     <a href="https://linkedin.com/in/pranava14"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:pranavsastry14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/Pranav-14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -30,7 +31,7 @@
 - 📜 **Certified Kubernetes Administrator (CKA)** with hands-on experience in container orchestration, Docker, GitOps, and secrets management (**HashiCorp Vault**).
 - 💼 **Working Student Software Developer at SAP** in the **Data Marketplace Infrastructure (DMI)** team within SAP Business Data Cloud (BDC).
 - 🤖 **AI Tooling Innovator:** Developing custom skills & extensions using **Claude Code** & **Model Context Protocol (MCP)** to automate cloud environment onboarding across 6 cloud providers.
-- 📄 **IEEE Published Author:** [*"A Deep Learning Approach for Electronic Waste Management and Classification in Smart Cities"*](https://www.semanticscholar.org/paper/A-Deep-Learning-Approach-for-Electronic-Waste-and-Guthur-Swaroop/0f46a7828c247481c54b5f9037c35848bb2081f9).
+- 📄 **Resume & Publications:** [View Resume (PDF)](./Pranav_Sastry_Resume.pdf) &nbsp;|&nbsp; IEEE Paper: [*"A Deep Learning Approach for Electronic Waste Management..."*](https://ieeexplore.ieee.org/abstract/document/11323614).
 
 ---
 
