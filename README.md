@@ -36,7 +36,7 @@
 
 ### 💼 Work Experience
 
-#### 🏢 **SAP** — *Working Student Software Developer*
+#### 🏢 **SAP** - *Working Student Software Developer*
 `Dec 2025 – Present` | *Walldorf, Germany*
 *Data Marketplace Infrastructure (DMI) team | Business Data Cloud (BDC) platform*
 - Provisioned and configured multi-cloud infrastructure across Azure, AWS, GCP, AliCloud, and SAP BTP using **Terraform** (IAM, networking, backend state).
@@ -45,25 +45,25 @@
 - Developed backend **Go** modules for automated secrets management reading from secrets stores with HashiCorp Vault.
 > **Key Skills:** `Go` `Terraform` `Kubernetes` `AWS` `Azure` `GCP` `SAP BTP` `Jenkins` `Claude Code` `MCP` `HashiCorp Vault`
 
-#### 📡 **Nokia Solutions and Networks** — *Student Intern (DevOps)*
+#### 📡 **Nokia Solutions and Networks** - *Student Intern (DevOps)*
 `Aug 2023 – Jun 2024` | *Bengaluru, India*
 - Designed and executed an automated network testing suite & VM management in Kubernetes environments using **Python**, **Shell**, and **YAML** (+30% testing efficiency).
 - Built Docker-based failover & pod health check scripts, improving system resilience by 40%.
 - Configured **Grafana** dashboards & **JMeter (JMX)** load testing, boosting reporting accuracy by 25%.
 > **Key Skills:** `Kubernetes (CKA)` `Docker` `Python` `Shell Scripting` `Grafana` `JMeter` `YAML` `Linux` `SSH`
 
-#### 🛍️ **Freelance** — *Web Developer*
+#### 🛍️ **Freelance** - *Web Developer*
 `Jul 2024 – Oct 2024` | *Bengaluru, India*
 - Built and maintained an e-commerce platform with focus on backend data automation using **Python** and **Django**.
 - Developed scripts to manage product inventory and automated update workflows (reduced manual test effort by 40%).
 > **Key Skills:** `Python` `Django` `REST APIs` `SQL` `Automation`
 
-#### ✈️ **Hindustan Aeronautics Limited (HAL)** — *Data Analyst Intern*
+#### ✈️ **Hindustan Aeronautics Limited (HAL)** - *Data Analyst Intern*
 `Aug 2023 – Sep 2023` | *Bengaluru, India*
 - Analyzed helicopter Maintenance, Repair, and Overhaul (MRO) failure datasets at Rotary Wing Research & Design Centre using **Python (Pandas, NumPy)**.
 > **Key Skills:** `Python` `Pandas` `NumPy` `Data Analysis` `Predictive Maintenance`
 
-#### 🧠 **Bambhari.com** — *Machine Learning Intern*
+#### 🧠 **Bambhari.com** - *Machine Learning Intern*
 `Jun 2023 – Aug 2023` | *Bengaluru, India*
 - Led a cross-functional team to develop a CNN-based disease detection computer vision model using **OpenCV** and **TensorFlow**.
 > **Key Skills:** `Python` `OpenCV` `TensorFlow` `CNN` `Computer Vision`
@@ -78,7 +78,7 @@
 | :--- | :--- |
 | **Languages** | `Go` `Python` `C` `JavaScript` `NodeJS` `SQL` `Bash` `YAML` `HTML/CSS` |
 | **Cloud & Infrastructure** | `Terraform` `Kubernetes (CKA)` `Docker` `AWS` `Azure` `GCP` `SAP BTP` `SAP CCloud` `Jenkins` `GitHub Actions` `GitOps` `HashiCorp Vault` |
-| **AI / Machine Learning** | `Claude Code` `MCP` `PyTorch` `TensorFlow` `OpenCV` `GitHub Copilot` `Prompt Engineering` |
+| **AI / Machine Learning** | `Claude Code` `MCP` `PyTorch` `TensorFlow` `OpenCV` `GitHub Copilot` `Prompt Engineering` `Antigravity IDE`|
 | **Databases & Monitoring** | `PostgreSQL` `Grafana` `JMeter` `InfluxDB` `Git` `Jira` `Linux` |
 
 <br/>
@@ -97,7 +97,7 @@
 - 🌐 **Google Cloud Program (GCP)** — Google Cloud
 - 💼 **Positioning SAP Business Data Cloud** — SAP
 - 🤖 **GitHub Copilot Certified** — GitHub
-- 📄 **IEEE Publication:** [*"A Deep Learning Approach for Electronic Waste Management and Classification in Smart Cities"*](https://www.semanticscholar.org/paper/A-Deep-Learning-Approach-for-Electronic-Waste-and-Guthur-Swaroop/0f46a7828c247481c54b5f9037c35848bb2081f9) (IEEE ICTBIG 2025)
+- 📄 **IEEE Publication:** [*"A Deep Learning Approach for Electronic Waste Management and Classification in Smart Cities"*]([https://ieeexplore.ieee.org/abstract/document/11323614](https://ieeexplore.ieee.org/abstract/document/11323614)) (IEEE ICTBIG 2025)
 
 ---
 
