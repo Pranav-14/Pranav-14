@@ -97,7 +97,7 @@
 - 🌐 **Google Cloud Program (GCP)** — Google Cloud
 - 💼 **Positioning SAP Business Data Cloud** — SAP
 - 🤖 **GitHub Copilot Certified** — GitHub
-- 📄 **IEEE Publication:** [*"A Deep Learning Approach for Electronic Waste Management and Classification in Smart Cities"*]([https://ieeexplore.ieee.org/abstract/document/11323614](https://ieeexplore.ieee.org/abstract/document/11323614)) (IEEE ICTBIG 2025)
+- 📄 **IEEE Publication:** [*"A Deep Learning Approach for Electronic Waste Management and Classification in Smart Cities"*](https://ieeexplore.ieee.org/abstract/document/11323614) (IEEE ICTBIG 2025)
 
 ---
 
