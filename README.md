@@ -52,22 +52,6 @@
 - Configured **Grafana** dashboards & **JMeter (JMX)** load testing, boosting reporting accuracy by 25%.
 > **Key Skills:** `Kubernetes (CKA)` `Docker` `Python` `Shell Scripting` `Grafana` `JMeter` `YAML` `Linux` `SSH`
 
-#### 🛍️ **Freelance** - *Web Developer*
-`Jul 2024 – Oct 2024` | *Bengaluru, India*
-- Built and maintained an e-commerce platform with focus on backend data automation using **Python** and **Django**.
-- Developed scripts to manage product inventory and automated update workflows (reduced manual test effort by 40%).
-> **Key Skills:** `Python` `Django` `REST APIs` `SQL` `Automation`
-
-#### ✈️ **Hindustan Aeronautics Limited (HAL)** - *Data Analyst Intern*
-`Aug 2023 – Sep 2023` | *Bengaluru, India*
-- Analyzed helicopter Maintenance, Repair, and Overhaul (MRO) failure datasets at Rotary Wing Research & Design Centre using **Python (Pandas, NumPy)**.
-> **Key Skills:** `Python` `Pandas` `NumPy` `Data Analysis` `Predictive Maintenance`
-
-#### 🧠 **Bambhari.com** - *Machine Learning Intern*
-`Jun 2023 – Aug 2023` | *Bengaluru, India*
-- Led a cross-functional team to develop a CNN-based disease detection computer vision model using **OpenCV** and **TensorFlow**.
-> **Key Skills:** `Python` `OpenCV` `TensorFlow` `CNN` `Computer Vision`
-
 ---
 
 ### 🛠️ Tech Stack & Tools
