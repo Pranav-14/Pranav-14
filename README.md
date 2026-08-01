@@ -26,11 +26,47 @@
 
 ### 🚀 About Me
 
-- 💼 **Working Student Software Developer at SAP** *(Walldorf, DE)*: Provisioning multi-cloud infrastructure across AWS, Azure, GCP, AliCloud, & SAP BTP using **Terraform**, **Go**, and **Jenkins CI/CD**.
-- 🤖 **AI Tooling Developer:** Designed & published AI skill extensions using **Claude Code** & **Model Context Protocol (MCP)** to automate cloud environment onboarding across 6 cloud providers.
-- 📜 **Certified Kubernetes Administrator (CKA)** with hands-on experience in container orchestration, Docker, GitOps, and secrets automation (**HashiCorp Vault**).
-- 🎓 **Education:** M.Sc. in Computer Science @ **TU Darmstadt** (2025–Present) | B.E. in Computer Science & AI @ **SVCE (VTU)** (2020–2024).
-- 📄 **IEEE Published Author:** *"A Deep Learning Approach for Electronic Waste Management and Classification in Smart Cities"*.
+- 🎓 **Education:** M.Sc. in Computer Science @ **TU Darmstadt** (2025–Present) | B.E. in CS & AI @ **SVCE (VTU)** (2020–2024).
+- 📜 **Certified Kubernetes Administrator (CKA)** with hands-on experience in container orchestration, Docker, GitOps, and secrets management (**HashiCorp Vault**).
+- 💼 **Working Student Software Developer at SAP** in the **Data Marketplace Infrastructure (DMI)** team within SAP Business Data Cloud (BDC).
+- 🤖 **AI Tooling Innovator:** Developing custom skills & extensions using **Claude Code** & **Model Context Protocol (MCP)** to automate cloud environment onboarding across 6 cloud providers.
+- 📄 **IEEE Published Author:** [*"A Deep Learning Approach for Electronic Waste Management and Classification in Smart Cities"*](https://www.semanticscholar.org/paper/A-Deep-Learning-Approach-for-Electronic-Waste-and-Guthur-Swaroop/0f46a7828c247481c54b5f9037c35848bb2081f9).
+
+---
+
+### 💼 Work Experience
+
+#### 🏢 **SAP** — *Working Student Software Developer*
+`Dec 2025 – Present` | *Walldorf, Germany*
+*Data Marketplace Infrastructure (DMI) team | Business Data Cloud (BDC) platform*
+- Provisioned and configured multi-cloud infrastructure across Azure, AWS, GCP, AliCloud, and SAP BTP using **Terraform** (IAM, networking, backend state).
+- Designed and published an **AI Skill extension** using **Claude Code & MCP** automating cloud environment onboarding across 6 providers (adopted internally across teams).
+- Extended **Jenkins CI/CD** pipelines for automated deployments with secure credential handling.
+- Developed backend **Go** modules for automated secrets management reading from secrets stores with HashiCorp Vault.
+> **Key Skills:** `Go` `Terraform` `Kubernetes` `AWS` `Azure` `GCP` `SAP BTP` `Jenkins` `Claude Code` `MCP` `HashiCorp Vault`
+
+#### 📡 **Nokia Solutions and Networks** — *Student Intern (DevOps)*
+`Aug 2023 – Jun 2024` | *Bengaluru, India*
+- Designed and executed an automated network testing suite & VM management in Kubernetes environments using **Python**, **Shell**, and **YAML** (+30% testing efficiency).
+- Built Docker-based failover & pod health check scripts, improving system resilience by 40%.
+- Configured **Grafana** dashboards & **JMeter (JMX)** load testing, boosting reporting accuracy by 25%.
+> **Key Skills:** `Kubernetes (CKA)` `Docker` `Python` `Shell Scripting` `Grafana` `JMeter` `YAML` `Linux` `SSH`
+
+#### 🛍️ **Freelance** — *Web Developer*
+`Jul 2024 – Oct 2024` | *Bengaluru, India*
+- Built and maintained an e-commerce platform with focus on backend data automation using **Python** and **Django**.
+- Developed scripts to manage product inventory and automated update workflows (reduced manual test effort by 40%).
+> **Key Skills:** `Python` `Django` `REST APIs` `SQL` `Automation`
+
+#### ✈️ **Hindustan Aeronautics Limited (HAL)** — *Data Analyst Intern*
+`Aug 2023 – Sep 2023` | *Bengaluru, India*
+- Analyzed helicopter Maintenance, Repair, and Overhaul (MRO) failure datasets at Rotary Wing Research & Design Centre using **Python (Pandas, NumPy)**.
+> **Key Skills:** `Python` `Pandas` `NumPy` `Data Analysis` `Predictive Maintenance`
+
+#### 🧠 **Bambhari.com** — *Machine Learning Intern*
+`Jun 2023 – Aug 2023` | *Bengaluru, India*
+- Led a cross-functional team to develop a CNN-based disease detection computer vision model using **OpenCV** and **TensorFlow**.
+> **Key Skills:** `Python` `OpenCV` `TensorFlow` `CNN` `Computer Vision`
 
 ---
 
@@ -40,10 +76,10 @@
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | `Go` `Python` `C` `JavaScript` `NodeJS` `SQL` `Bash` `YAML` |
-| **Cloud & Infrastructure** | `Terraform` `Kubernetes (CKA)` `Docker` `AWS` `Azure` `GCP` `SAP BTP` `Jenkins` `GitHub Actions` `GitOps` `HashiCorp Vault` |
+| **Languages** | `Go` `Python` `C` `JavaScript` `NodeJS` `SQL` `Bash` `YAML` `HTML/CSS` |
+| **Cloud & Infrastructure** | `Terraform` `Kubernetes (CKA)` `Docker` `AWS` `Azure` `GCP` `SAP BTP` `SAP CCloud` `Jenkins` `GitHub Actions` `GitOps` `HashiCorp Vault` |
 | **AI / Machine Learning** | `Claude Code` `MCP` `PyTorch` `TensorFlow` `OpenCV` `GitHub Copilot` `Prompt Engineering` |
-| **Databases & Tools** | `PostgreSQL` `Grafana` `JMeter` `InfluxDB` `Git` `Jira` `Linux` |
+| **Databases & Monitoring** | `PostgreSQL` `Grafana` `JMeter` `InfluxDB` `Git` `Jira` `Linux` |
 
 <br/>
 
@@ -54,13 +90,14 @@
 
 ---
 
-### 📜 Certifications
+### 📜 Certifications & Publications
 
-- 🥇 **Certified Kubernetes Administrator (CKA)** - Cloud Native Computing Foundation
-- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- 🌐 **Google Cloud Program (GCP)**
-- 🤖 **GitHub Copilot Certified**
-- 📈 **IELTS 7.0 (C1 English)**
+- 🥇 **Certified Kubernetes Administrator (CKA)** — Cloud Native Computing Foundation
+- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)** — Microsoft
+- 🌐 **Google Cloud Program (GCP)** — Google Cloud
+- 💼 **Positioning SAP Business Data Cloud** — SAP
+- 🤖 **GitHub Copilot Certified** — GitHub
+- 📄 **IEEE Publication:** [*"A Deep Learning Approach for Electronic Waste Management and Classification in Smart Cities"*](https://www.semanticscholar.org/paper/A-Deep-Learning-Approach-for-Electronic-Waste-and-Guthur-Swaroop/0f46a7828c247481c54b5f9037c35848bb2081f9) (IEEE ICTBIG 2025)
 
 ---
 
@@ -71,7 +108,7 @@
     <td width="50%">
       <h3 align="center">🛒 Online Auction System</h3>
       <p align="center">
-        Full-stack Django web application featuring real-time bidding, classifieds, 6-digit PIN radius search, and mobile (+91) OTP authentication.
+        Full-stack Django web application featuring real-time bidding, classifieds, 6-digit PIN radius search, and mobile OTP authentication.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
@@ -98,23 +135,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Analytics & Streak
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranav-14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-14&theme=tokyonight"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-14&layout=compact&theme=tokyonight"/>
-</div>
 
 ---
 
