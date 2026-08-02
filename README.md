@@ -3,7 +3,6 @@
   <!-- Main Hero Title & Visual Badge -->
   <h1>Pranav Sastry</h1>
   <p align="center">
-    <b>Cloud-Native Systems & AI Infrastructure Engineer</b>
   </p>
   
   <p align="center">
@@ -24,14 +23,14 @@
 
 ### 💡 Profile
 
+- 💼 **Current Role:** Working Student Software Developer at **SAP** within the **Data Marketplace Infrastructure (DMI)** team in SAP Business Data Cloud (BDC).
+- 🎓 **Academics:** M.Sc. in Computer Science at **TU Darmstadt** (2025–Present) & B.E. in CS & AI from **SVCE / VTU** (2020–2024).
 - ☁️ **Multi-Cloud & Infrastructure:** Certified Kubernetes Administrator (**CKA**) specializing in Terraform, Go microservices, multi-region cloud provisioning (AWS, Azure, GCP, AliCloud, SAP BTP), and secrets lifecycle management (**HashiCorp Vault**).
-- 🤖 **AI Tooling Innovator:** Engineering custom agentic skills & Model Context Protocol (**MCP**) integrations with **Claude Code** to automate complex cloud environment onboarding workflows across 6 cloud platforms.
-- 💼 **Enterprise Impact:** Working Student Software Developer at **SAP** within the **Data Marketplace Infrastructure (DMI)** team in SAP Business Data Cloud (BDC).
-- 🎓 **Academic Foundation:** M.Sc. in Computer Science at **TU Darmstadt** (2025–Present) & B.E. in CS & AI from **SVCE / VTU** (2020–2024).
+- 🤖 **Gen AI:** Engineering custom agentic skills & Model Context Protocol (**MCP**) integrations with **Claude Code** to automate complex cloud environment onboarding workflows across 6 cloud platforms.
 
 ---
 
-### 💼 Experience & Impact Highlights
+### 💼 Experience Highlights
 
 <table width="100%">
   <tr>
@@ -66,7 +65,7 @@
 
 ---
 
-### 🛠️ Technical Matrix
+### 🛠️ Tech Stack
 
 ```
 ┌─────────────────────────────┬─────────────────────────────────────────────────────────────┐
@@ -91,7 +90,7 @@
 
 ---
 
-### 📜 Certifications & Scholarly Publications
+### 📜 Certifications & Publications
 
 - 🥇 **Certified Kubernetes Administrator (CKA)** 
 - ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)** - *Microsoft*
@@ -102,7 +101,7 @@
 
 ---
 
-### 📌 Featured Engineering Projects
+### 📌 Featured Projects
 
 <table width="100%">
   <tr>
