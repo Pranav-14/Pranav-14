@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Main Hero Title & Visual Badge -->
-  <h1>⚡ Pranav Sastry</h1>
+  <h1>Pranav Sastry</h1>
   <p align="center">
     <b>Cloud-Native Systems & AI Infrastructure Engineer</b>
   </p>
@@ -18,17 +18,11 @@
     <a href="https://github.com/Pranav-14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Pranav-14&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </p>
-
 </div>
 
 ---
 
-### 💡 Executive Profile
-
-> *"Architecting resilient multi-cloud infrastructure and bridging modern cloud-native systems with cutting-edge agentic AI tooling."*
+### 💡 Profile
 
 - ☁️ **Multi-Cloud & Infrastructure:** Certified Kubernetes Administrator (**CKA**) specializing in Terraform, Go microservices, multi-region cloud provisioning (AWS, Azure, GCP, AliCloud, SAP BTP), and secrets lifecycle management (**HashiCorp Vault**).
 - 🤖 **AI Tooling Innovator:** Engineering custom agentic skills & Model Context Protocol (**MCP**) integrations with **Claude Code** to automate complex cloud environment onboarding workflows across 6 cloud platforms.
@@ -99,11 +93,11 @@
 
 ### 📜 Certifications & Scholarly Publications
 
-- 🥇 **Certified Kubernetes Administrator (CKA)** — *Cloud Native Computing Foundation (CNCF)*
-- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)** — *Microsoft*
-- 🌐 **Google Cloud Program (GCP)** — *Google Cloud*
-- 💼 **Positioning SAP Business Data Cloud** — *SAP*
-- 🤖 **GitHub Copilot Certified** — *GitHub*
+- 🥇 **Certified Kubernetes Administrator (CKA)** 
+- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)** - *Microsoft*
+- 🌐 **Google Cloud Program (GCP)** - *Google Cloud*
+- 💼 **Positioning SAP Business Data Cloud** - *SAP*
+- 🤖 **GitHub Copilot Certified** - *GitHub*
 - 📄 **IEEE Publication:** [*“A Deep Learning Approach for Electronic Waste Management and Classification in Smart Cities”*](https://ieeexplore.ieee.org/abstract/document/11323614) *(IEEE ICTBIG 2025)*
 
 ---
@@ -138,23 +132,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Activity & Telemetry
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranav-14&show_icons=true&theme=midnight-purpur&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-14&layout=compact&theme=midnight-purpur&hide=html,css" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
