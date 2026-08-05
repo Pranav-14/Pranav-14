@@ -39,7 +39,7 @@
       <p><code>Dec 2025 - Present</code> | 📍 <em>Walldorf, Germany</em> &nbsp;|&nbsp; <b> DMI - Business Data Cloud (BDC)</b></p>
       <ul>
         <li><b>Multi-Cloud Infrastructure & IaC:</b> Authored & configured modular <b>Terraform</b> templates for multi-region cloud provisioning (IAM, networking, backend state) across Azure, AWS, GCP, AliCloud, and SAP BTP.</li>
-        <li><b>AI Agentic Tooling (Claude Code + MCP):</b> Architected & published an internal <b>Claude Code skill extension & MCP server</b> automating cloud environment onboarding—handling automated file generation, prerequisite validation, git branch creation, and PR opening across 6 cloud platforms.</li>
+        <li><b>AI Agentic Tooling (Claude Code + MCP):</b> Architected & published an internal <b>Claude Code skill extension & MCP server</b> automating cloud environment onboarding-handling automated file generation, prerequisite validation, git branch creation, and PR opening across 6 cloud platforms.</li>
         <li><b>Automated Secrets Management:</b> Engineered backend <b>Go</b> microservices for automated secrets ingestion with <b>HashiCorp Vault</b>, supporting credential generation, structured serialization, and target environment writing.</li>
         <li><b>Enterprise CI/CD Pipelines:</b> Extended <b>Jenkins</b> pipelines for seamless multi-cloud provider integration, secure credential handling, and automated environment deployment.</li>
       </ul>
