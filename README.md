@@ -23,8 +23,8 @@
 
 ### 💡 Profile
 
-- 💼 **Current Role:** Working Student Software Developer at **SAP** within the **Data Marketplace Infrastructure (DMI)** team in SAP Business Data Cloud (BDC).
-- 🎓 **Academics:** M.Sc. in Computer Science at **TU Darmstadt** (2025–Present) & B.E. in CS & AI from **SVCE / VTU** (2020–2024).
+- 💼 **Current Role:** Working Student Software Developer at **SAP** within the **DMI** team in SAP Business Data Cloud (BDC).
+- 🎓 **Academics:** M.Sc. in Computer Science at **TU Darmstadt** (2025-Present) & B.E. in CS & AI from **SVCE / VTU** (2020-2024).
 - ☁️ **Multi-Cloud & Infrastructure:** Certified Kubernetes Administrator (**CKA**) specializing in Terraform, Go microservices, multi-region cloud provisioning (AWS, Azure, GCP, AliCloud, SAP BTP), and secrets lifecycle management (**HashiCorp Vault**).
 - 🤖 **Gen AI & DevEx:** Engineering custom agentic skills & Model Context Protocol (**MCP**) integrations with **Claude Code** to automate complex cloud environment onboarding workflows across 6 cloud platforms.
 
@@ -36,7 +36,7 @@
   <tr>
     <td width="100%">
       <h3>🏢 SAP &nbsp;·&nbsp; <small>Working Student Software Developer</small></h3>
-      <p><code>Dec 2025 – Present</code> | 📍 <em>Walldorf, Germany</em> &nbsp;|&nbsp; <b>Data Marketplace Infrastructure (DMI) — Business Data Cloud (BDC)</b></p>
+      <p><code>Dec 2025 - Present</code> | 📍 <em>Walldorf, Germany</em> &nbsp;|&nbsp; <b> DMI - Business Data Cloud (BDC)</b></p>
       <ul>
         <li><b>Multi-Cloud Infrastructure & IaC:</b> Authored & configured modular <b>Terraform</b> templates for multi-region cloud provisioning (IAM, networking, backend state) across Azure, AWS, GCP, AliCloud, and SAP BTP.</li>
         <li><b>AI Agentic Tooling (Claude Code + MCP):</b> Architected & published an internal <b>Claude Code skill extension & MCP server</b> automating cloud environment onboarding—handling automated file generation, prerequisite validation, git branch creation, and PR opening across 6 cloud platforms.</li>
@@ -51,7 +51,7 @@
   <tr>
     <td width="100%">
       <h3>📡 Nokia Solutions and Networks &nbsp;·&nbsp; <small>DevOps Student Intern</small></h3>
-      <p><code>Aug 2023 – Jun 2024</code> | 📍 <em>Bengaluru, India</em></p>
+      <p><code>Aug 2023 - Jun 2024</code> | 📍 <em>Bengaluru, India</em></p>
       <ul>
         <li><b>Automated Network & K8s Testing:</b> Architected CNF/VNF testing suites & SSL certificate validation tooling in Kubernetes environments using <b>Python</b>, <b>Shell</b>, and <b>YAML</b> (<b>60% manual effort reduction</b>).</li>
         <li><b>High Availability & Pod Health:</b> Developed Docker-based container failover and health check scripts for Kubernetes pods, boosting system reliability by <b>40%</b>.</li>
@@ -94,7 +94,7 @@
 
 ### 📜 Certifications, Languages & Publications
 
-- 🥇 **Certified Kubernetes Administrator (CKA)** - *Cloud Native Computing Foundation (CNCF)*
+- 🥇 **Certified Kubernetes Administrator (CKA)** 
 - ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)** - *Microsoft*
 - 🌐 **Google Cloud Program (GCP)** - *Google Cloud*
 - 💼 **Positioning SAP Business Data Cloud** - *SAP*
